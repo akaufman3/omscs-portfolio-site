@@ -53,6 +53,6 @@
     ]
   },
   "resolutions": {
-    "typescript": "^5"
+    "typescript": "^5.0.4"
   }
 }
