@@ -55,5 +55,8 @@
   },
   "resolutions": {
     "typescript": "^4.9.5"
-  }
+  },
+  "extends": [
+    "react-app"
+  ]
 }
